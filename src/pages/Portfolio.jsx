@@ -1,7 +1,7 @@
 export default function Blog() {
   return (
     <div>
-      <h1>Blog Page</h1>
+      <h1>My Portfolio</h1>
       <p>
         
       </p>
