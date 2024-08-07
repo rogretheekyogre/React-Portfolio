@@ -1,0 +1,1 @@
+export {default as cat} from './images/bowtie-cat.png'

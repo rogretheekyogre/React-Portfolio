@@ -33,7 +33,7 @@ export default function Contact() {
   return (
     <div>
       <h1>Contact Me</h1>
-      <Form onChange={handleSubmit}>
+      <Form onSubmit={handleSubmit}>
 
         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
           <Form.Label>Name</Form.Label>
